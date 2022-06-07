@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&%10render&fontSize=130)
 
+<div align=center>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mok02198)](https://solved.ac/profile/mok02198)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mok02198)](https://solved.ac/mok02198)
